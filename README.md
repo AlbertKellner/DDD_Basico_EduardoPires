@@ -1,5 +1,4 @@
 # Neste vídeo tutorial você aprenderá
-================================================
 
 - Criar uma solução padrão DDD
 - Separar a aplicação em camadas
@@ -27,4 +26,4 @@
 
 =================
 
-## See more at: http://eduardopires.net.br/2014/10/tutorial-asp-net-mvc-5-ddd-ef-automapper-ioc-dicas-e-truques/
+#### See more at: http://eduardopires.net.br/2014/10/tutorial-asp-net-mvc-5-ddd-ef-automapper-ioc-dicas-e-truques/
